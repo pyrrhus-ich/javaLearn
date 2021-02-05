@@ -1,7 +1,12 @@
+STRG + 1 - Bezeichner der Variable für alle Vorkommen ändern
+STRG + 1 - Datentyp eines Ausdrucks ändern z.B. int -> double
+
+
 STRG + 7  - Blockweise auskommentieren
-STRG + .  - NÃ¤chster Fehler
+STRG + .  - Nächster Fehler
+
+ALT + Umschalt + R = Refactor | Element oder datei muss markiert sein
 
 
-
-
-F12 - ZurÃ¼ck zum Editor
+F3 - Markiere eine Methode und drücke F3 => Cursor springt zur Methodendefinition
+F12 - Zurück zum Editor

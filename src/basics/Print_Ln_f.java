@@ -37,8 +37,20 @@ class Print_Ln_f {
 		System.err.println("Das ist eine Fehlermeldung");
 		
 		// printf Ausgabe in Landesspezifischer Kommazahl
+		
 		double zahl = 10.00;
-		System.out.printf("%g", zahl);
+		System.out.printf("%g\n", zahl);
+		
+		double zahlFloat = 1234;
+		System.out.printf("%.2f\n" , zahlFloat);//.2 für 2 stellen
+		
+		int zahlInt = 8954;
+		System.out.printf("%d\n" , zahlInt);
+		
+		// Einzelne Zeichen in Hochkomma werden zu int konvertiert
+		System.out.println('a' + 2 + "\n");
+		
+		
 	}
 }
 

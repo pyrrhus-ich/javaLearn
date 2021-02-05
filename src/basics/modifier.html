@@ -1,11 +1,22 @@
-!Templates.html5.content!
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
 <h1>Sichtbarkeitsmodifier</h1>
 <div>
-<ul></ul>
-<li>public - Bestimmt ob die Klasse oder Methode für Programmcode anderer Klassen sichtbar ist</li>
+<ul>
+<li><b>public</b> - Bestimmt ob die Klasse oder Methode für Programmcode anderer Klassen sichtbar ist<br>
+also jeder diese Methode verwenden kann.<br></li>
+<br>
+<li><b>privat</b> - Hier kann nur das Objekt selbst diese Methode nutzen. Sinnvoll wenn<br>
+Methoden benutzt werden um die Komplexität zu verkleinern und Probleme zu lösen. </li>
+<br>
+<li><b>protected</b> - Nur abgeleitete Klassen oder Klassen im gleichen Verzeichnis(Paket) können diese Methode nutzen </li>
+<br>
+<li><b>static</b> - Erlaubt das die methode aufgerufen werden kann ohne ein Objekt oder Klasse zu bilden<br>
+Es kann also nur mit dem Klassennamen aufgerufen werden. Fehlt das <i>static</i> so muss zwingend ein Objekt <br>
+erzeugt werden.</li>
+<br>
+<li><b>void</b> - heisst auf deutsch 'frei'. => Die Methode liefert keinen Rückgabewert.</li>
+<br>
+<li><b>final</b> - Zur definition von Variablen die nicht geändert werden können sollen. z.B Konstanten<br>
+Bei einer Vererbung ist es der Unterklasse nicht erlaubt den Programmcode der Methode zu ändern.</li>
 </ul>
-</div>
-<div>
-<li>static - Erlaubt das die methode aufgerufen werden kann ohne ein Objekt oder Klasse zu bilden</li>
-<li>final - Zur definition von Variablen die nicht geändert werden können sollen. z.B Konstanten</li>
 </div>

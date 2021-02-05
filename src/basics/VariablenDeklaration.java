@@ -31,7 +31,7 @@ public class VariablenDeklaration {
 		
 		// Deklarieren von Variablen mit 'var'
 		// Braucht kein Datentyp angegeben zu werden. Muss aber eindeutig sein zB String oder int
-		// nicht für double oder float. Nur möglich mit gleichzeitige deklaration.
+		// nicht f�r double oder float. Nur moeglich mit gleichzeitige deklaration.
 		var ages = 48;
 		var names = "Frank";
 		var isDumm = true;
@@ -42,7 +42,7 @@ public class VariablenDeklaration {
 		// aufgeschobene Initialisierung möglich
 		final int perimeter; // deklariert die Variable mit 'final'
 		perimeter = width * 2 + height * 2; // aufgeschobene Initialisierung
-		perimeter = 100; // führt zu einer Fehlermeldung, weil perimeter jetzt bereits initialisiert ist
+		//perimeter = 100; // fuehrt zu einer Fehlermeldung, weil perimeter jetzt bereits initialisiert ist
 	}
 	
 
