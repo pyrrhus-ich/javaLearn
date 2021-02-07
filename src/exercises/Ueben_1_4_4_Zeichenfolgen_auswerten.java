@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_4_4_Zeichenfolgen_auswerten {
 

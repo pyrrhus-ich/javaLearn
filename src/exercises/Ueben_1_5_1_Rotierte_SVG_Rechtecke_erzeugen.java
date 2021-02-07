@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_5_1_Rotierte_SVG_Rechtecke_erzeugen {
 

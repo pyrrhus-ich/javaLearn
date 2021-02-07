@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_5_2_SVG_Perlenkette_erzeugen {
 

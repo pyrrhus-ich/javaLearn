@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 /**
  *<li> Werte Eingabe mit java.util.Scanner
  *<li> Math Random

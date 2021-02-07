@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_3_5_Eine_Flasche_Rum_10_Flaschen_Rum {
 

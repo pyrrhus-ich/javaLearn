@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_4_3_Kreise_mit_unterschiedlichen_Farben {
 

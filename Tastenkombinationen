@@ -5,6 +5,8 @@ STRG + 1 - Datentyp eines Ausdrucks ändern z.B. int -> double
 STRG + 7  - Blockweise auskommentieren
 STRG + .  - Nächster Fehler
 
+STRG + F10 - View Menü - Package Explorer umstellen von Hierarchisch auf Flat
+
 ALT + Umschalt + R = Refactor | Element oder datei muss markiert sein
 
 

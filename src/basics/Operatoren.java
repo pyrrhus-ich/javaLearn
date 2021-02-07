@@ -9,6 +9,8 @@ public class Operatoren {
 		System.out.println(baba == 1);
 		System.out.println(baba == 2);
 		
+		
+		
 		// Restwertoperator nur für Integer
 		int modulo = 7 % 3;
 				System.out.println(modulo);

@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_3_3_Besitzen_zwei_Zahlen_gleiche_Ziffern {
 

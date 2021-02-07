@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_3_1_ZahlenVergleichenUndGeldZusammen {
 	

@@ -1,4 +1,4 @@
-package Exercises;
+package exercises;
 
 public class Ueben_1_5_3_Zahlen_von_der_Kommandozeile_summieren {
 

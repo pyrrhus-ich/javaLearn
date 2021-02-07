@@ -1,5 +1,6 @@
-package Exercises;
+package exercises;
 
+// Rechnet aus wieviel Münzen (>= 2 €) man für einen Betrag(money) ausgezahlt bekommt
 public class Ueben_1_3_4_Währungsbetrag_in_Münzen {
 
 	public static void main(String[] args) {
