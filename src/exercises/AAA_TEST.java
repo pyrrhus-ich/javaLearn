@@ -1,4 +1,4 @@
-package basics;
+package exercises;
 
 public class AAA_TEST {
 

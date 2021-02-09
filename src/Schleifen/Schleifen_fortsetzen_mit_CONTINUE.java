@@ -1,4 +1,4 @@
-package basics;
+package Schleifen;
 /**
  * <p>
  * Mit continue ist es möglich fehleingaben abzufangen

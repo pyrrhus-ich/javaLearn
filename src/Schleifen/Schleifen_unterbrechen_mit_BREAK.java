@@ -1,4 +1,4 @@
-package basics;
+package Schleifen;
 /**
  * <p>
  * Verwendung von Break erklärt an einem Zahlenratespiel

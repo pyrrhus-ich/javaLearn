@@ -1,4 +1,4 @@
-package basics;
+package Schleifen;
 /**
  * <p>
  * Mit labeln kann man z.B in Verschachtelten Schleifen einen abbruch der <br>

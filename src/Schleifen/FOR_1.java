@@ -1,4 +1,4 @@
-package basics;
+package Schleifen;
 /**
  * <p>
  * Ist wie die while Schleife, wird aber in erster Linie zum Zählen verwendet. Wird <br>
@@ -7,7 +7,7 @@ package basics;
  * 
  *
  */
-public class Schleifen_FOR {
+public class FOR_1 {
 
 	public static void main(String[] args) {
 		
