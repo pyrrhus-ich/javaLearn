@@ -19,6 +19,8 @@ public class FOR_2_erweiterte_FOR_Schleife_FOR_EACH {
 				sum += n;		  // addiere 
 			
 			return sum / array.length;
+			
+			
 		}
 
 	
@@ -26,6 +28,7 @@ public class FOR_2_erweiterte_FOR_Schleife_FOR_EACH {
 		double[] myArr = {12.5, 23.58, 98.78};
 		System.out.println(avg(myArr));
 
+		
 	}
 
 }

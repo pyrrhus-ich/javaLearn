@@ -1,13 +1,10 @@
-/**
- * 
- */
 package methoden;
 
-// Wenn Rückgabe gewünscht darf nicht 'void' im Methodenkopf stehen
-// Eine return - Anweisung gibt einen Wert zurück
-	class Methoden_definieren_MIT_Rückgabe_OHNE_Parameter {
+// Wenn RÃ¼ckgabe gewÃ¼nscht darf nicht 'void' im Methodenkopf stehen
+// Eine return - Anweisung gibt einen Wert zurÃ¼ck
+	class Methoden_definieren_MIT_RÃ¼ckgabe_OHNE_Parameter {
 		// definieren der Methode
-		// Eine statische Methode liefert eine Zufallszahl zwischen 0 & 100 zurück
+		// Eine statische Methode liefert eine Zufallszahl zwischen 0 & 100 zurÃ¼ck
 		static double largerRandom() {
 			return Math.random() * 100;
 	}
