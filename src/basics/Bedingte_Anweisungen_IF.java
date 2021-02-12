@@ -12,11 +12,11 @@ public class Bedingte_Anweisungen_IF {
 		else if (a == 100)
 			System.out.println("a ist genau 100");
 		else
-			System.out.println("a muss größer als 100 sein");
+			System.out.println("a muss grÃ¶ÃŸer als 100 sein");
 		
 		// Bedingungsoperator
 		
-		String max = (a > b) ? "a ist größer b" : "b ist größer a";
+		String max = (a > b) ? "a ist grï¿½ï¿½er b" : "b ist grï¿½ï¿½er a";
 		System.out.println(max);
 
 		}

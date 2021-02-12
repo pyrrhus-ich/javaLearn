@@ -1,6 +1,6 @@
 package arrays;
 // Kompliziertes Beispiel au Java Insel S.289
-public class NICHTRECHTECKIGE_Arrays {
+public class MEHRDIMENSIONALE_NICHTRECHTECKIGE_Arrays {
 
 			// Dreieckiges Array erstellen
 			static void dreieckArr() {

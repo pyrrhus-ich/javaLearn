@@ -34,15 +34,22 @@ class Print_Ln_f {
 		System.out.println("Hello\nWorld");
 		
 		// error
-		System.err.println("Das ist eine Fehlermeldung");
+		System.err.println("Das ist eine Fehlermeldung\n");
 		
-		// printf Ausgabe in Landesspezifischer Kommazahl
-		
+		// printf
+
+	    // s formats strings. Funktioniert auch mit boolean
+	    // d formats decimal integers.
+	    // f formats floating-point numbers.
+	    // t formats date/time values.
+
+		String wessen = "Das ist Mein String";
+		System.out.printf("%s\n", wessen );
 		double zahl = 10.00;
 		System.out.printf("%g\n", zahl);
 		
 		double zahlFloat = 1234;
-		System.out.printf("%.2f\n" , zahlFloat);//.2 für 2 stellen
+		System.out.printf("%.2f\n" , zahlFloat);//.2 fï¿½r 2 stellen
 		
 		int zahlInt = 8954;
 		System.out.printf("%d\n" , zahlInt);

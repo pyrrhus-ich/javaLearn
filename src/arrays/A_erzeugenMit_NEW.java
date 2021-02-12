@@ -1,19 +1,19 @@
 package arrays;
 
-public class erzeugenMit_NEW {
+public class A_erzeugenMit_NEW {
 
 	public static void main(String[] args) {
-		// Neues Array erzeugen und Größe festlegen
-		// Größe kann hiterher nicht mehr geändert werden
+		// Neues Array erzeugen und Grï¿½ï¿½e festlegen
+		// Grï¿½ï¿½e kann hiterher nicht mehr geï¿½ndert werden
 		int[] myarr; // deklaration
-		myarr = new int[10]; // Initialisiert myarr mit Größe 10
+		myarr = new int[10]; // Initialisiert myarr mit Grï¿½ï¿½e 10
 		// deklaration und initialisierung in einem Schritt
 		double[] myArr1 = new double[10];
 		System.out.println(myArr1.length);
 		
 		// Wertebelegung eines Arrays bei der Initialisierung
 		int[] myArr2 = {2, 3, 5, 6};
-		String[] myArr3 = {"ich", "du", "er",};//abschliessendes Komma vereinfacht das hinzufügen
+		String[] myArr3 = {"ich", "du", "er",};//abschliessendes Komma vereinfacht das hinzufï¿½gen
 		int[] myArr4 = { , };			   // eines leeren Elementes
 		
 		

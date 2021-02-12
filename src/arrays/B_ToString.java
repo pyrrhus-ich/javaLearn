@@ -7,7 +7,7 @@ package arrays;
 import java.util.Arrays;
 
 // java.util.Array
-public class ToString {
+public class B_ToString {
 
 	public static void main(String[] args) {
 		

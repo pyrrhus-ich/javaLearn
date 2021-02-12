@@ -1,6 +1,6 @@
 package arrays;
 
-public class ZugriffÜber_INDEX_Array_Vorwärts_und_Rückwärts_durchlaufen {
+public class FOR_ZugriffÜber_INDEX_Array_Vorwärts_und_Rückwärts_durchlaufen {
 
 	public static void main(String[] args) {
 		String[] myArr = {"Ich" , "bin", "schlau","aber ", "nicht", "die", "Nummer", "1", "."};

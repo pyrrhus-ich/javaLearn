@@ -2,7 +2,7 @@ package arrays;
 
 // Wenn arrays geclont wurde führt jede Änderung in einem array zur selben änderung
 // im anderen Array. 
-public class Clone {
+public class B_Clone {
 
 	public static void main(String[] args) {
 		String[][] myArr = {{"Frank", "Sabine"}, {"Franzi", "Francesca"} };

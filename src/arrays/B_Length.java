@@ -1,10 +1,10 @@
 package arrays;
 
-public class Length {
+public class B_Length {
 
 	public static void main(String[] args) {
 		int[] myArr = {3, 5, 7 + 2};
-		System.out.println("Länge myArr => " + myArr.length);
+		System.out.println("Lï¿½nge myArr => " + myArr.length);
 
 	}
 

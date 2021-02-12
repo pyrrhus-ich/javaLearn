@@ -1,7 +1,7 @@
 package arrays;
-// siehe auch ./methoden/MEHRERE_RÜCKGABEWERTE_durch_Array
+// siehe auch ./methoden/MEHRERE_Rï¿½CKGABEWERTE_durch_Array
 
-public class ANNONYME_Arrays {
+public class A_ANNONYME_Arrays {
 
 	static double avg(double[] array) {
 		double sum = 0;

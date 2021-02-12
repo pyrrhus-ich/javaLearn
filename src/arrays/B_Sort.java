@@ -1,6 +1,6 @@
 package arrays;
 import java.util.*;
-public class Sort {
+public class B_Sort {
 
 	public static void main(String[] args) {
 		int[] numbers = { -1, 3, -10, 9, 3 }; 
