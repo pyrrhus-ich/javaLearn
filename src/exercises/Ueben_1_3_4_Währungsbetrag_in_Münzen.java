@@ -1,18 +1,18 @@
 package exercises;
 
-// Rechnet aus wieviel Münzen (>= 2 €) man für einen Betrag(money) ausgezahlt bekommt
-public class Ueben_1_3_4_Währungsbetrag_in_Münzen {
+// Rechnet aus wieviel MÃ¼nzen (>= 2 ï¿½) man fï¿½r einen Betrag(money) ausgezahlt bekommt
+public class Ueben_1_3_4_WÃ¤hrungsbetrag_in_MÃ¼nzen {
 
 	public static void main(String[] args) {
 		double money = 11313.91;
 		int cent = (int) (money * 100);
 		
 		if (cent / 200 > 0) {
-			System.out.println("2 € = " + cent / 200);
+			System.out.println("2 â‚¬ = " + cent / 200);
 			cent = cent % 200;
 		}
 		if (cent / 100 > 0) {
-			System.out.println("1 € = " + cent / 100);
+			System.out.println("1 â‚¬ = " + cent / 100);
 			cent = cent % 100;
 		}
 		if (cent / 50 > 0) {

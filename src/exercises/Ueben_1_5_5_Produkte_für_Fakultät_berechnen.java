@@ -2,19 +2,19 @@ package exercises;
 
 import java.util.Scanner;
 
-public class Ueben_1_5_5_Produkte_für_Fakultät_berechnen {
+public class Ueben_1_5_5_Produkte_fÃ¼r_FakultÃ¤t_berechnen {
 	
-	static void berechneFakultät() {
+	static void berechneFakultÃ¤t() {
 		
 		long eingabe = 0;
-		long fakultät = 1;
+		long fakultÃ¤t = 1;
 		
 		do {
 			System.out.println("Gib eine Zahl ein => ");
 				eingabe = new Scanner(System.in).nextLong(); // kommt von java.util
 				
 				if (eingabe == 0) {
-					System.out.println("Ergebnis ist =  "  + fakultät);
+					System.out.println("Ergebnis ist =  "  + fakultÃ¤t);
 					eingabe = 1;
 					break;
 					
@@ -26,13 +26,13 @@ public class Ueben_1_5_5_Produkte_für_Fakultät_berechnen {
 					
 						for (int i = 1; i < eingabe; i++) {
 							System.out.println(("i => " + i));
-							System.out.println("Fakultät am Beginn der Berechnung => " + fakultät);
-							//fakultät += fakultät * i;
-							fakultät += Math.multiplyExact(fakultät, i);
-							System.out.println("Aktuelle Fakultät ist => " + fakultät);
+							System.out.println("FakultÃ¤t am Beginn der Berechnung => " + fakultÃ¤t);
+							//fakultÃ¤t += fakultÃ¤t * i;
+							fakultÃ¤t += Math.multiplyExact(fakultÃ¤t, i);
+							System.out.println("Aktuelle FakultÃ¤t ist => " + fakultÃ¤t);
 						}
 						
-						System.out.println("Ende der Berechnung, Ergebnis ist => " + fakultät);
+						System.out.println("Ende der Berechnung, Ergebnis ist => " + fakultÃ¤t);
 					}
 		}
 		
@@ -42,7 +42,7 @@ public class Ueben_1_5_5_Produkte_für_Fakultät_berechnen {
 	}
 	
 	public static void main(String[] args) {
-		berechneFakultät();
+		berechneFakultÃ¤t();
 		
 		
 		}

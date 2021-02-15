@@ -1,8 +1,8 @@
-package Klassen_und_Objekte;
+package klassen_und_Objekte;
 
 /**
  * Referenzvariablen speichern die Referenz von einem Objekt<br>
- * <b>Referenztypen gibt es in 4 Ausführungen</b>
+ * <b>Referenztypen gibt es in 4 Ausfï¿½hrungen</b>
  * <li>Klassentypen
  * <li>Schnittstellentypen(Interfacetypen)
  * <li>Array Typen (Feldtypen)

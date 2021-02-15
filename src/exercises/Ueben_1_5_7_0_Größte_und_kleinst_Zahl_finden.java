@@ -9,8 +9,8 @@ public class Ueben_1_5_7_0_Größte_und_kleinst_Zahl_finden {
 		long x = Math.abs(eingabe); // bewirkt das ein eventuelles negatives Vorzeichen verschwindet
 		String y = Long.toString(x); //wandelt x in einen String um da der iterierbar ist
 		
-		long max = 0; //initialisiert mit der kleinst m�glichen Zahl
-		long min = 9; // initialisiert mit der gr�st m�glichen Zahl
+		long max = 0; //initialisiert mit der kleinst möglichen Zahl
+		long min = 9; // initialisiert mit der gröst möglichen Zahl
 		
 		if (x >= 0) {
 			for (int i = 0; i < y.length(); i++) {

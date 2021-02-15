@@ -1,7 +1,7 @@
 package exercises;
 
 
-public class Ueben_1_5_7_1_Größte_und_kleinst_Zahl_finden_LÖSUNG {
+public class Ueben_1_5_7_1_GrÃ¶ÃŸte_und_kleinst_Zahl_finden_LÃ–SUNG {
 
 	public static void main( String[] args ) {
 	    //tag::solution[]

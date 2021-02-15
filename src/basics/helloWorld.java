@@ -6,10 +6,25 @@ package basics;
  * @since 30.01.2021
  */
 class helloWorld {
-
-	public static void main(String[] args) {
-		System.out.println("Hello World");
-
+	
+	String satz;
+	
+	public void setSatz(String satz) {
+		this.satz = satz;
+	}
+	
+	public String getSatz() {
+		return satz;
 	}
 
-}
+	
+
+	public static void main(String[] args) {
+		
+		helloWorld gruß = new helloWorld();
+		gruß.setSatz("Guten Morgen lieber Frank");
+		gruß.getSatz();
+		
+	}
+
+	}

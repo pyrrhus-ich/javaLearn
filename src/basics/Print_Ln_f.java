@@ -40,8 +40,11 @@ class Print_Ln_f {
 
 	    // s formats strings. Funktioniert auch mit boolean
 	    // d formats decimal integers.
-	    // f formats floating-point numbers.
-	    // t formats date/time values.
+	    // f formats floating-point numbers. Werden gerundet 0,45 ~ 0,5
+	    // t formats date/time values. Erwartet immer suffix S.392 JavaInsel
+		// % Przentzeichen
+		// n neue Zeile
+		// verwendung von Argumenten S.393
 
 		String wessen = "Das ist Mein String";
 		System.out.printf("%s\n", wessen );

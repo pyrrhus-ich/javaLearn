@@ -1,5 +1,6 @@
 package strings;
 // macht aus einem String ein charArray
+// Siehe auch getChars wenn man nur Teile des Strings braucht
 
 public class toCharArray {
 
