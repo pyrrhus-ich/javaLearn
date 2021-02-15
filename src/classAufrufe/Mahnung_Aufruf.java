@@ -1,4 +1,7 @@
-package classDefinitions;
+package classAufrufe;
+
+// importiert aus dem Paket classDefinitions die KLasse Mahnung
+import classDefinitions.Mahnung;
 
 // ruft die Klasse Mahnung auf
 
