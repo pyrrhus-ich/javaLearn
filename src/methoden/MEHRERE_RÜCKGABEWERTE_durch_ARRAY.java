@@ -1,6 +1,6 @@
 package methoden;
 
-public class MEHRERE_RÜCKGABEWERTE_durch_ARRAY {
+public class MEHRERE_RÃœCKGABEWERTE_durch_ARRAY {
 
 	
 	static int[] productAndSum(int a, int b) {

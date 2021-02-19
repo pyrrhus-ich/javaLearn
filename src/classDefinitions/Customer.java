@@ -47,7 +47,7 @@ public /* abstract */ class Customer {
 		anzahlDerInstanzen++;
 		
 	}
-	// weil die Methode genauso heist wie die Klasse, kann sie in einem Rutsch angelegt werden
+	// dies ist der Konstruktor. 
 	public Customer (String firstName, String lastName, int birthYear, String geschlecht) {
 		this.firstName = firstName;
 		this.lastName = lastName;
