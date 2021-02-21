@@ -1,5 +1,5 @@
 package exceptions;
-
+// while schleife die mittels try / catch alles abfängt was keine zahl ist
 public class ContinueInput {
 
 	public static void main(String[] args) {
