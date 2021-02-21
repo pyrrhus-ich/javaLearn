@@ -1,0 +1,3 @@
+- Erstellen von Variablen
+- einfache Berechnung von Variablen
+- Ausgabe von formatierten texten mit printf
