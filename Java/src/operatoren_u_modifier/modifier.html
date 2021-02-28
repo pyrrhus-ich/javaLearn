@@ -1,0 +1,36 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<h1>Sichtbarkeitsmodifier</h1>
+<div>
+<ul>
+<li><b>public</b> - Bestimmt ob die Klasse oder Methode für Programmcode anderer Klassen sichtbar ist<br>
+also jeder diese Methode verwenden kann.<br></li>
+<li>Wenn in der Oberklasse Eigenschaften public sind, dann sind sie das auch in den Unterklassen. Eigentlich<br>
+sieht sie jeder.<br>
+<li>Wenn die Klasse nicht sichtbar ist, sind auch die Methoden und Variablen nicht sichtbar.<br>
+<br>
+<li><b>private</b><br>
+<li>Methoden und Variablen sind nur in der eigenen Klasse sichtbar. Ausnahme Geschachtelte Klassen. Hier kann<br>die innere Klasse auf die privaten Eigenschaften der äußeren Klasse zugreifen.<br>
+<li>Unterklasse sehen private Eigenschaften ebenfalls nicht.<br> 
+<li>Hier kann nur das Objekt selbst diese Methode nutzen. Sinnvoll wenn<br>
+Methoden benutzt werden um die Komplexität zu verkleinern und Probleme zu lösen. </li>
+<br>
+<li><b>paketsichtbarkeit</b><br>
+<li>Ist die Standardsichtbarkeit. Paketsichtbare Typen und Eigenschaften sind nur für Klassen aus dem gleichen Paket sichtbar.<br>
+also weder für Klassen noch für Unterklassen aus anderen Paketen<br>
+<li>ACHTUNG !!! wenn die Klasse public ist aber z.B. eine Variable nicht als public deklariert ist, ist zwar die Klasse ausserhalb<br>
+des eigenen Pakets zu sehen, aber nicht die Variable.<br>
+<br>
+<li><b>protected</b> <br>
+<li>Hat eine Doppelfunktion 1. die gleiche Sichtbarkeit wie paketsichtbarkeit.<br>
+<li>Zusätzlich sichtbarkeit für Unterklassen. Dabei ist es egal ob die Unterklassen aus dem eigenen Paket kommen oder aus einem anderen Paket.<br>
+<br>
+<li><b>static</b> - Erlaubt das die methode aufgerufen werden kann ohne ein Objekt oder Klasse zu bilden<br>
+Es kann also nur mit dem Klassennamen aufgerufen werden. Fehlt das <i>static</i> so muss zwingend ein Objekt <br>
+erzeugt werden.</li>
+<br>
+<li><b>void</b> - heisst auf deutsch 'frei'. => Die Methode liefert keinen Rückgabewert.</li>
+<br>
+<li><b>final</b> - Zur definition von Variablen die nicht geändert werden können sollen. z.B Konstanten<br>
+Bei einer Vererbung ist es der Unterklasse nicht erlaubt den Programmcode der Methode zu ändern.</li>
+</ul>
+</div>
