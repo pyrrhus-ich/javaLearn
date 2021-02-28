@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Pyrrhus
- *
- */
-package classAufrufe;
