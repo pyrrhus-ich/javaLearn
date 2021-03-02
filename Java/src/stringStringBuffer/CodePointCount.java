@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 /**
  * Gibt die Anzahl der Unicodezeichen in einem String zurück<br>
  *Fängt bei 0 an zu zählen<br>

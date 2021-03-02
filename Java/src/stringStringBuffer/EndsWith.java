@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 /**
  * prüft ob ein string mit einer bestimmten sequenz endet<br>
  *

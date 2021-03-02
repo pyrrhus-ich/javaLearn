@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 
 /**
  * haengt den einen String an den anderen<br>

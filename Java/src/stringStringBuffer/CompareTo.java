@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 /**
  * vergleicht lexigraphisch str1 mit str2<br>
  *Syntax:<br>

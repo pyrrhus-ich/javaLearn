@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 /**
  * gibt den Unicode eines Buchstaben an einem bestimmten Index aus<br>
  * Syntax:<br>
@@ -11,7 +11,7 @@ package stringMethoden;
 public class CodePointAt {
 
 	public static void main(String[] args) {
-		String myStr = "abcxyz12/\\3@§&%ABCäöü";
+		String myStr = "abcdexyz12/\\3@§&%ABCäöü";
 		
 		for (int el = 0; el < myStr.length() ; el++) {
 			System.out.printf("Index %d "

@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 
 /**
  * prüft ob eine Stringsequence in einem String vorhanden ist<br>

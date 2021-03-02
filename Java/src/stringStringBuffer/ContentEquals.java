@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 
 /**
  * gibt nur true zurück wenn wirklich der ganze String übereinstimmt<br>

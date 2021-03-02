@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 /**
  * Funktionalität wie compareTo aber vorher werden alle Buchstaben<br>
  *in lowercase umgewandelt.

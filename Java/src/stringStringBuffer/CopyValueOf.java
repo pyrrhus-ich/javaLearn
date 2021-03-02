@@ -1,4 +1,4 @@
-package stringMethoden;
+package stringStringBuffer;
 
 /**
  * nimmt ein Array aus chars und gibt einen String zurück<br>
