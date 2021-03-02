@@ -1,7 +1,7 @@
 package objectMethoden;
 
 /**
- * wenn man ganze Objekte vergleicht kommt false zurück<br>
+ * wenn man ganze Objekte vergleicht kommt false zurück es sei denn man überschreibt equals() siehe dazu Class Auto<br>
  *vergleicht man aber einzelne Strings dann kommt true<br>
  *
  * 01.03.2021
