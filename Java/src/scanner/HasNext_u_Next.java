@@ -17,7 +17,9 @@ public class HasNext_u_Next {
 		System.out.println(str.hasNextByte());
 		System.out.println(str.nextByte());
 		
-		
+		while (str.hasNext()) {
+			System.out.println(str.next());
+		}
 		
 		
 	}
